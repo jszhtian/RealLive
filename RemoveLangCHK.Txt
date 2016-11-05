@@ -1,0 +1,3 @@
+MessageBoxW/A下断点，找到前面能跳过MessageBox的那个跳转。
+直接改成JMP收工。
+一共3处
