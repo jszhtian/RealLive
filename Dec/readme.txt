@@ -5,3 +5,5 @@ RL引擎加密
 Xor逆运算直接XOR即可。
 第一个Key  16*8bit(Mov AL,字符串  MOV ebp+??,AL)
 第二个key 128*8bit(MOV AL,ECX+字符串)
+
+Key已搞定，下面来搞压缩算法。。
