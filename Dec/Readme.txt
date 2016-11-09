@@ -1,1 +1,0 @@
-GameEXEdump后需要在文件头增加FFFE UTF16标识
