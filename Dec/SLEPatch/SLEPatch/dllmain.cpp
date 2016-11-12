@@ -109,13 +109,15 @@ void sethookbytes(uint addr)
 
 void BeginDetour()
 {
-
+	HANDLE modaddr = GetModuleHandle(L"SiglusEngine Patch5.exe");
+	flog << "Now EXE Handle:" << modaddr << endl;
 	pcreatefile = (fnCreateFileW)GetProcAddress(GetModuleHandle(L"kernel32.dll"), "CreateFileW");
 	DetourTransactionBegin();
 	DetourAttach((void**)&pcreatefile, newcreatefile);
 	DetourTransactionCommit();
 
-	uint hookAddr = 0x00E15ad6;
+	uint hookAddr = (uint)modaddr+0x555ad6;
+	flog << "Target Code in:" << hookAddr;
 	sethookbytes(hookAddr);
 	if (hook())
 	{
