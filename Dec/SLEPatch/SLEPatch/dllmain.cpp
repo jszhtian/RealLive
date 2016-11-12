@@ -8,7 +8,7 @@ typedef unsigned short word;
 unsigned char* buf;
 typedef unsigned int ulong;
 using namespace std;
-int flag = 0;
+//static int flag = 1;
 char* text;
 typedef HANDLE(WINAPI* fnCreateFileW)(LPCTSTR filename, DWORD acc, DWORD smo, LPSECURITY_ATTRIBUTES lpsec, DWORD credis, DWORD flags, HANDLE htmpf);
 fnCreateFileW pcreatefile;
@@ -18,11 +18,16 @@ void NumberPatch() {}
 typedef unsigned int uint;
 
 uint hookAddr = 0;
-uint jmptag1 = 0;
-uint jmptag2 = 0;
 char old_opcode[HOOK_BYTES];
 char new_opcode[HOOK_BYTES];
 char target_opecode[HOOK_BYTES] = {0x90,0x90,0x90,0x90,0x90};
+
+struct FileInfo
+{
+	int isFile;
+	string filename;
+}targetfile;
+
 
 
 char* wtoc(LPCTSTR str)
@@ -50,13 +55,19 @@ HANDLE WINAPI newcreatefile(LPCTSTR filename, DWORD acc, DWORD smo, LPSECURITY_A
 	pos2 = textstore.find("scene.pck", 0);
 	if (pos1!=textstore.npos||pos2!=textstore.npos)
 	{
-		flag = 1;
+//		flag = 1;
 		flog << ctime(&nowtime);
-		flog << "File Name:" << textstore << endl<<"Flag="<<flag<<endl << endl;
+		targetfile.filename = textstore;
+		targetfile.isFile = 1;
+		//flog << "File Name:" << textstore << endl << "Flag=" << flag << endl << endl;
+		flog << "File Name:" << textstore << endl << "Flag=" << targetfile.isFile << endl << endl;
+		flog << "Struct info" << "Filename:" << targetfile.filename << "Flaginfo:" << targetfile.isFile << endl;
+
 	}
 	else
 	{
-		flag = 0;
+//		flag = 0;
+		targetfile.isFile = 0;
 	}
 
 	return pcreatefile(filename, acc, smo, lpsec, credis, flags, htmpf);
@@ -94,7 +105,9 @@ void __declspec(naked) hook_jmp(void)
 {
 	__asm
 	{
-		mov eax,flag
+		//mov eax,flag
+		mov ebx,offset targetfile
+		mov eax,[ebx]targetfile.isFile
 		ret
 	}
 }
