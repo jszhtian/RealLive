@@ -60,8 +60,8 @@ HANDLE WINAPI newcreatefile(LPCTSTR filename, DWORD acc, DWORD smo, LPSECURITY_A
 		targetfile.filename = textstore;
 		targetfile.isFile = 1;
 		//flog << "File Name:" << textstore << endl << "Flag=" << flag << endl << endl;
-		flog << "File Name:" << textstore << endl << "Flag=" << targetfile.isFile << endl << endl;
-		flog << "Struct info" << "Filename:" << targetfile.filename << "Flaginfo:" << targetfile.isFile << endl;
+		//flog <<endl<< "File Name:" << textstore << endl << "Flag=" << targetfile.isFile << endl << endl;
+		flog<<endl<< "Struct info!" << " Filename:" << targetfile.filename << " Flaginfo:" << targetfile.isFile << endl;
 
 	}
 	else
@@ -180,4 +180,8 @@ BOOL WINAPI DllMain(HMODULE hModule, DWORD dwReason, LPVOID lpReserved)
 		break;
 	}
 	return TRUE;
+}
+
+extern "C" __declspec(dllexport) void dummy(void) {
+	return;
 }
