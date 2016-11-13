@@ -1,0 +1,4 @@
+﻿detours.lib(detours.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(detours.obj)”或在“C:\Users\jszht\documents\visual studio 2015\Projects\SLEPatch\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+detours.lib(disasm.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(disasm.obj)”或在“C:\Users\jszht\documents\visual studio 2015\Projects\SLEPatch\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  SLEPatch.vcxproj -> C:\Users\jszht\documents\visual studio 2015\Projects\SLEPatch\Debug\SLEPatch.dll
+  SLEPatch.vcxproj -> C:\Users\jszht\documents\visual studio 2015\Projects\SLEPatch\Debug\SLEPatch.pdb (Full PDB)

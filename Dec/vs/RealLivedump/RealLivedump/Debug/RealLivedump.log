@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\jszht\documents\visual studio 2015\projects\reallivedump\reallivedump\main.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jszht\documents\visual studio 2015\projects\reallivedump\reallivedump\main.cpp(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\jszht\documents\visual studio 2015\projects\reallivedump\reallivedump\main.cpp(166): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(204): note: 参见“wcsncpy”的声明
+c:\users\jszht\documents\visual studio 2015\projects\reallivedump\reallivedump\main.cpp(169): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+c:\users\jszht\documents\visual studio 2015\projects\reallivedump\reallivedump\main.cpp(170): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+c:\users\jszht\documents\visual studio 2015\projects\reallivedump\reallivedump\main.cpp(187): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: 参见“_wfopen”的声明
+  RealLivedump.vcxproj -> C:\Users\jszht\Documents\Visual Studio 2015\Projects\RealLivedump\Debug\RealLivedump.exe
+  RealLivedump.vcxproj -> C:\Users\jszht\Documents\Visual Studio 2015\Projects\RealLivedump\Debug\RealLivedump.pdb (Full PDB)

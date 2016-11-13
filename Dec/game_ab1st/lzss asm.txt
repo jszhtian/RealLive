@@ -1,0 +1,137 @@
+
+
+
+005D8250  /$ 55             PUSH EBP
+
+005D8251  |. 8BEC           MOV EBP,ESP
+
+005D8253  |. 83EC 10        SUB ESP,10
+
+005D8256  |. 85C0           TEST EAX,EAX
+
+005D8258  |. 75 06          JNZ SHORT SiglusEn.005D8260
+
+005D825A  |> 33C0           XOR EAX,EAX
+
+005D825C  |. 8BE5           MOV ESP,EBP
+
+005D825E  |. 5D             POP EBP
+
+005D825F  |. C3             RETN
+
+
+
+
+
+005D8260  |> 8D48 04        LEA ECX,DWORD PTR DS:[EAX+4]      ;ecx = 编码后的Size？
+
+005D8263  |. 8B01           MOV EAX,DWORD PTR DS:[ECX]        ;eax = size2
+
+005D8265  |. 83C1 04        ADD ECX,4                         ;ecx = datablock？
+
+005D8268  |. 85C0           TEST EAX,EAX                      ;size = 0,就跳过
+
+005D826A  |. 8945 F0        MOV DWORD PTR SS:[EBP-10],EAX
+
+005D826D  |. 894D F4        MOV DWORD PTR SS:[EBP-C],ECX
+
+005D8270  |.^74 E8          JE SHORT SiglusEn.005D825A
+
+005D8272  |. 85D2           TEST EDX,EDX                      ;edx = AllocSave
+
+005D8274  |. 74 5B          JE SHORT SiglusEn.005D82D1
+
+005D8276  |. 53             PUSH EBX
+
+005D8277  |. 56             PUSH ESI
+
+005D8278  |. 03C2           ADD EAX,EDX                       ;eax = AllocSaveEndPos
+
+005D827A  |. 57             PUSH EDI
+
+005D827B  |. 8955 F8        MOV DWORD PTR SS:[EBP-8],EDX
+
+005D827E  |. 8945 FC        MOV DWORD PTR SS:[EBP-4],EAX
+
+005D8281  |. FC             CLD
+
+005D8282  |. 8B75 F4        MOV ESI,DWORD PTR SS:[EBP-C]      ;Data
+
+005D8285  |. 8B7D F8        MOV EDI,DWORD PTR SS:[EBP-8]
+
+005D8288  |. 33D2           XOR EDX,EDX
+
+005D828A  |> 3B7D FC        /CMP EDI,DWORD PTR SS:[EBP-4]
+
+005D828D  |. 74 3C          |JE SHORT SiglusEn.005D82CB       ;是否完成
+
+005D828F  |. 8A16           |MOV DL,BYTE PTR DS:[ESI]         ;DecodeFlag
+
+005D8291  |. 46             |INC ESI
+
+005D8292  |. B6 08          |MOV DH,8
+
+005D8294  |> 3B7D FC        |/CMP EDI,DWORD PTR SS:[EBP-4]
+
+005D8297  |. 74 32          ||JE SHORT SiglusEn.005D82CB
+
+005D8299  |. F6C2 01        ||TEST DL,1
+
+005D829C  |. 74 09          ||JE SHORT SiglusEn.005D82A7
+
+005D829E  |. 66:A5          ||MOVS WORD PTR ES:[EDI],WORD PTR DS:[ES>
+
+005D82A0  |. A4             ||MOVS BYTE PTR ES:[EDI],BYTE PTR DS:[ES>
+
+005D82A1  |. C607 FF        ||MOV BYTE PTR DS:[EDI],0FF      ;注意这个字节
+
+005D82A4  |. 47             ||INC EDI
+
+005D82A5  |. EB 1C          ||JMP SHORT SiglusEn.005D82C3
+
+005D82A7  |> 33C0           ||XOR EAX,EAX
+
+005D82A9  |. 66:AD          ||LODS WORD PTR DS:[ESI] 
+
+005D82AB  |. 8BC8           ||MOV ECX,EAX
+
+005D82AD  |. C1E8 04        ||SHR EAX,4                      ;eax /= 16;
+
+005D82B0  |. C1E0 02        ||SHL EAX,2                      ;eax *= 4
+
+005D82B3  |. 83E1 0F        ||AND ECX,0F                     ;ecx = ecx & 0x0F
+
+005D82B6  |. 83C1 01        ||ADD ECX,1                      ;ecx ++; 重复次数+1
+
+005D82B9  |. 8BDE           ||MOV EBX,ESI   
+
+005D82BB  |. 8BF7           ||MOV ESI,EDI   
+
+005D82BD  |. 2BF0           ||SUB ESI,EAX                
+
+005D82BF  |. F3:A5          ||REP MOVS DWORD PTR ES:[EDI],DWORD PTR >
+
+005D82C1  |. 8BF3           ||MOV ESI,EBX                    ;还原esi
+
+005D82C3  |> D0EA           ||SHR DL,1
+
+005D82C5  |. FECE           ||DEC DH                         ;Control？
+
+005D82C7  |.^75 CB          |\JNZ SHORT SiglusEn.005D8294
+
+005D82C9  |.^EB BF          \JMP SHORT SiglusEn.005D828A
+
+005D82CB  |> 8B45 F0        MOV EAX,DWORD PTR SS:[EBP-10]
+
+005D82CE  |. 5F             POP EDI
+
+005D82CF  |. 5E             POP ESI
+
+005D82D0  |. 5B             POP EBX
+
+005D82D1  |> 8BE5           MOV ESP,EBP
+
+005D82D3  |. 5D             POP EBP
+
+005D82D4  \. C3             RETN
+

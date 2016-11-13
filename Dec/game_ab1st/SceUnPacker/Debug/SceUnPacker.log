@@ -1,0 +1,14 @@
+﻿  Main.cpp
+f:\github\reallive\game_ab1st\sceunpacker\main.cpp(167): warning C4018: “<”: 有符号/无符号不匹配
+f:\github\reallive\game_ab1st\sceunpacker\main.cpp(173): error C2664: “int wsprintfA(LPSTR,LPCSTR,...)”: 无法将参数 1 从“wchar_t [33]”转换为“LPSTR”
+  f:\github\reallive\game_ab1st\sceunpacker\main.cpp(173): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+f:\github\reallive\game_ab1st\sceunpacker\main.cpp(153): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\github\reallive\game_ab1st\sceunpacker\main.cpp(171): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(204): note: 参见“wcsncpy”的声明
+f:\github\reallive\game_ab1st\sceunpacker\main.cpp(174): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+f:\github\reallive\game_ab1st\sceunpacker\main.cpp(175): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+f:\github\reallive\game_ab1st\sceunpacker\main.cpp(189): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: 参见“_wfopen”的声明

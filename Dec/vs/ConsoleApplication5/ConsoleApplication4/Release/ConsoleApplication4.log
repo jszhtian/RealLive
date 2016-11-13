@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ConsoleApplication4.cpp
+ConsoleApplication4.cpp(107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+ConsoleApplication4.cpp(123): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: 参见“_wfopen”的声明
+  正在生成代码
+  3 of 3 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication4.vcxproj -> C:\Users\jszht\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Release\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\jszht\Documents\Visual Studio 2015\Projects\ConsoleApplication5\Release\ConsoleApplication4.pdb (Full PDB)

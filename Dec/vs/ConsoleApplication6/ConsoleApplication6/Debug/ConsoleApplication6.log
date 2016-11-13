@@ -1,0 +1,7 @@
+﻿  ConsoleApplication6.cpp
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(54): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(64): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: 参见“_wfopen”的声明
+  ConsoleApplication6.vcxproj -> c:\users\jszht\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\jszht\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)

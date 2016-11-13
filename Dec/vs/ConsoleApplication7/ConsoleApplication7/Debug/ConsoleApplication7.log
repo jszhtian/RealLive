@@ -1,0 +1,5 @@
+﻿  ConsoleApplication7.cpp
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(15): warning C4244: “初始化”: 从“DWORD”转换到“char”，可能丢失数据
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(18): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  ConsoleApplication7.vcxproj -> c:\users\jszht\documents\visual studio 2015\Projects\ConsoleApplication7\Debug\ConsoleApplication7.exe
+  ConsoleApplication7.vcxproj -> c:\users\jszht\documents\visual studio 2015\Projects\ConsoleApplication7\Debug\ConsoleApplication7.pdb (Full PDB)

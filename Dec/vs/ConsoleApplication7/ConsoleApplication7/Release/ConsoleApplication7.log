@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ConsoleApplication7.cpp
+ConsoleApplication7.cpp(15): warning C4244: “初始化”: 从“DWORD”转换到“char”，可能丢失数据
+ConsoleApplication7.cpp(18): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ConsoleApplication7.vcxproj -> c:\users\jszht\documents\visual studio 2015\Projects\ConsoleApplication7\Release\ConsoleApplication7.exe
+  ConsoleApplication7.vcxproj -> c:\users\jszht\documents\visual studio 2015\Projects\ConsoleApplication7\Release\ConsoleApplication7.pdb (Full PDB)

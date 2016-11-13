@@ -1,0 +1,1944 @@
++Find Target! Text Address:0x262f9 Allocation Size:8 Text:カーナビ
+-Find Target! Text Address:0x262f9 Allocation Size:8 Text:カーナビ
+
++Find Target! Text Address:0x26302 Allocation Size:20 Text:「およそ１km先、目的地周辺です」
+-Find Target! Text Address:0x26302 Allocation Size:20 Text:「およそ１km先、目的地周辺です」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x2634e Allocation Size:1a Text:「着くぞ。そろそろ起きろ」
+-Find Target! Text Address:0x2634e Allocation Size:1a Text:「着くぞ。そろそろ起きろ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26390 Allocation Size:a Text:「ういー」
+-Find Target! Text Address:0x26390 Allocation Size:a Text:「ういー」
+
++Find Target! Text Address:0x263f0 Allocation Size:6 Text:田舎。
+-Find Target! Text Address:0x263f0 Allocation Size:6 Text:田舎。
+
++Find Target! Text Address:0x263f7 Allocation Size:36 Text:それは今日の情報化社会における、現代人の心のオアシス。
+-Find Target! Text Address:0x263f7 Allocation Size:36 Text:それは今日の情報化社会における、現代人の心のオアシス。
+
++Find Target! Text Address:0x2642e Allocation Size:18 Text:澄んだ空気に透き通る水。
+-Find Target! Text Address:0x2642e Allocation Size:18 Text:澄んだ空気に透き通る水。
+
++Find Target! Text Address:0x26447 Allocation Size:28 Text:山を歩けば木漏れ日が、浜を歩けば潮風が。
+-Find Target! Text Address:0x26447 Allocation Size:28 Text:山を歩けば木漏れ日が、浜を歩けば潮風が。
+
++Find Target! Text Address:0x26470 Allocation Size:54 Text:そんな四季折々の自然の中で暮らす、都会人とは似て非なる穏やかな住人たちとの共同生活。
+-Find Target! Text Address:0x26470 Allocation Size:54 Text:そんな四季折々の自然の中で暮らす、都会人とは似て非なる穏やかな住人たちとの共同生活。
+
++Find Target! Text Address:0x264c5 Allocation Size:20 Text:ただし、虫だけはノーサンキュー。
+-Find Target! Text Address:0x264c5 Allocation Size:20 Text:ただし、虫だけはノーサンキュー。
+
++Find Target! Text Address:0x26501 Allocation Size:1c Text:恐らくセミすらも無理だろう。
+-Find Target! Text Address:0x26501 Allocation Size:1c Text:恐らくセミすらも無理だろう。
+
++Find Target! Text Address:0x2651e Allocation Size:52 Text:お父様お母様、俺はこんな虫嫌いで、果たして今日から田舎生活など出来るのでしょうか。
+-Find Target! Text Address:0x2651e Allocation Size:52 Text:お父様お母様、俺はこんな虫嫌いで、果たして今日から田舎生活など出来るのでしょうか。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26571 Allocation Size:40 Text:「姉貴、ちょっと途中でコンビニ寄って。虫除けスプレー大量に買う」
+-Find Target! Text Address:0x26571 Allocation Size:40 Text:「姉貴、ちょっと途中でコンビニ寄って。虫除けスプレー大量に買う」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x265cd Allocation Size:32 Text:「お前何言ってんだ？　そんなもんあるわけないだろ」
+-Find Target! Text Address:0x265cd Allocation Size:32 Text:「お前何言ってんだ？　そんなもんあるわけないだろ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26600 Allocation Size:2e Text:「いやいや、春先でも虫除けくらい売ってるだろ」
+-Find Target! Text Address:0x26600 Allocation Size:2e Text:「いやいや、春先でも虫除けくらい売ってるだろ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2662f Allocation Size:40 Text:「ちなみに虫除けだけじゃないからな。戦闘用の殺虫剤も必要だから」
+-Find Target! Text Address:0x2662f Allocation Size:40 Text:「ちなみに虫除けだけじゃないからな。戦闘用の殺虫剤も必要だから」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26678 Allocation Size:1e Text:「お前、なんか勘違いしてるな」
+-Find Target! Text Address:0x26678 Allocation Size:1e Text:「お前、なんか勘違いしてるな」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x2669f Allocation Size:28 Text:「この先、コンビニなんて一軒もないぞ？」
+-Find Target! Text Address:0x2669f Allocation Size:28 Text:「この先、コンビニなんて一軒もないぞ？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26734 Allocation Size:14 Text:「あるわけないだろ」
+-Find Target! Text Address:0x26734 Allocation Size:14 Text:「あるわけないだろ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x43 Allocation Size:0 Text:
+-Find Target! Text Address:0x43 Allocation Size:0 Text:
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26883 Allocation Size:30 Text:「いやコンビニすら無いとか、もはや秘境だろ……」
+-Find Target! Text Address:0x26883 Allocation Size:30 Text:「いやコンビニすら無いとか、もはや秘境だろ……」
+
++Find Target! Text Address:0x43 Allocation Size:0 Text:
+-Find Target! Text Address:0x43 Allocation Size:0 Text:
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x268d0 Allocation Size:2e Text:「まあそうだな。学生にはちょっとばかし辛いか」
+-Find Target! Text Address:0x268d0 Allocation Size:2e Text:「まあそうだな。学生にはちょっとばかし辛いか」
+
++Find Target! Text Address:0x268ff Allocation Size:e Text:ちょっと……？
+-Find Target! Text Address:0x268ff Allocation Size:e Text:ちょっと……？
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2692d Allocation Size:5e Text:「これあれじゃん！？　下手したら電気も水道も無い系じゃん！？　ガスとか絶対プロパンじゃん！？」
+-Find Target! Text Address:0x2692d Allocation Size:5e Text:「これあれじゃん！？　下手したら電気も水道も無い系じゃん！？　ガスとか絶対プロパンじゃん！？」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26994 Allocation Size:3e Text:「そこは安心しろ。ガスはプロパンらしいが、鳥取県とは違うんだ」
+-Find Target! Text Address:0x26994 Allocation Size:3e Text:「そこは安心しろ。ガスはプロパンらしいが、鳥取県とは違うんだ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x269e3 Allocation Size:18 Text:「な、なんてことだ……」
+-Find Target! Text Address:0x269e3 Allocation Size:18 Text:「な、なんてことだ……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x269fc Allocation Size:40 Text:「田舎でも、コンビニくらいはチャリ圏内だと思ってたのに……！！」
+-Find Target! Text Address:0x269fc Allocation Size:40 Text:「田舎でも、コンビニくらいはチャリ圏内だと思ってたのに……！！」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26a45 Allocation Size:34 Text:「お前な、ここまで来て今さらぐだぐだ言うのやめろよ」
+-Find Target! Text Address:0x26a45 Allocation Size:34 Text:「お前な、ここまで来て今さらぐだぐだ言うのやめろよ」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26af2 Allocation Size:36 Text:「それじゃ少し飛ばすぞ。死にたくなかったら掴まってろ」
+-Find Target! Text Address:0x26af2 Allocation Size:36 Text:「それじゃ少し飛ばすぞ。死にたくなかったら掴まってろ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26c0f Allocation Size:6 Text:……。
+-Find Target! Text Address:0x26c0f Allocation Size:6 Text:……。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26c16 Allocation Size:1c Text:「結局、着いてしまった……」
+-Find Target! Text Address:0x26c16 Allocation Size:1c Text:「結局、着いてしまった……」
+
++Find Target! Text Address:0x26c33 Allocation Size:20 Text:腹立つくらいに空気が澄んでいる。
+-Find Target! Text Address:0x26c33 Allocation Size:20 Text:腹立つくらいに空気が澄んでいる。
+
++Find Target! Text Address:0x26c54 Allocation Size:24 Text:おまけにカエルとか鳴きまくってるし。
+-Find Target! Text Address:0x26c54 Allocation Size:24 Text:おまけにカエルとか鳴きまくってるし。
+
++Find Target! Text Address:0x26c79 Allocation Size:e Text:何アレ、水路？
+-Find Target! Text Address:0x26c79 Allocation Size:e Text:何アレ、水路？
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26cfa Allocation Size:3e Text:「少し休憩だ。民宿の場所忘れたから、ちょっと歩いて聞いてくる」
+-Find Target! Text Address:0x26cfa Allocation Size:3e Text:「少し休憩だ。民宿の場所忘れたから、ちょっと歩いて聞いてくる」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26d39 Allocation Size:a Text:「民宿？」
+-Find Target! Text Address:0x26d39 Allocation Size:a Text:「民宿？」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26d64 Allocation Size:38 Text:「婆さん家だ。お前５歳のとき一度行ってるぞ。忘れたのか」
+-Find Target! Text Address:0x26d64 Allocation Size:38 Text:「婆さん家だ。お前５歳のとき一度行ってるぞ。忘れたのか」
+
++Find Target! Text Address:0x26d9d Allocation Size:22 Text:覚えていたら逆にすごいと思います。
+-Find Target! Text Address:0x26d9d Allocation Size:22 Text:覚えていたら逆にすごいと思います。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26dc0 Allocation Size:1c Text:「カーナビ使えばいいじゃん」
+-Find Target! Text Address:0x26dc0 Allocation Size:1c Text:「カーナビ使えばいいじゃん」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26def Allocation Size:38 Text:「このナビ調子悪いんだよ。高速で県跨ぐと全く信用出来ん」
+-Find Target! Text Address:0x26def Allocation Size:38 Text:「このナビ調子悪いんだよ。高速で県跨ぐと全く信用出来ん」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26e28 Allocation Size:36 Text:「まあ１km手前でアナウンスするようなポンコツだもんな」
+-Find Target! Text Address:0x26e28 Allocation Size:36 Text:「まあ１km手前でアナウンスするようなポンコツだもんな」
+
++Find Target! Text Address:0x26e68 Allocation Size:38 Text:俺がそう言うと、当たり前のようにタバコを吸い始める姉貴。
+-Find Target! Text Address:0x26e68 Allocation Size:38 Text:俺がそう言うと、当たり前のようにタバコを吸い始める姉貴。
+
++Find Target! Text Address:0x26ea1 Allocation Size:48 Text:普段はなんとも思わないけど、今だけはこの空気を台無しにしている気がする。
+-Find Target! Text Address:0x26ea1 Allocation Size:48 Text:普段はなんとも思わないけど、今だけはこの空気を台無しにしている気がする。
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26f18 Allocation Size:3e Text:「お前、ちょっとここいてくれ。たばこ吸うついでに道聞いてくる」
+-Find Target! Text Address:0x26f18 Allocation Size:3e Text:「お前、ちょっとここいてくれ。たばこ吸うついでに道聞いてくる」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26f57 Allocation Size:a Text:「へーい」
+-Find Target! Text Address:0x26f57 Allocation Size:a Text:「へーい」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26f86 Allocation Size:4c Text:「ちなみに、知らない女に声かけられたら気をつけろよ？　田舎の女は怖いからな」
+-Find Target! Text Address:0x26f86 Allocation Size:4c Text:「ちなみに、知らない女に声かけられたら気をつけろよ？　田舎の女は怖いからな」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x26fe9 Allocation Size:3c Text:「お前にその気がなくても、純朴な振りして個人情報を盗み出し」
+-Find Target! Text Address:0x26fe9 Allocation Size:3c Text:「お前にその気がなくても、純朴な振りして個人情報を盗み出し」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x2705c Allocation Size:4c Text:「気がつけば一晩中、スマホには寂しい＆誰かかまって系の粘着メッセージを……」
+-Find Target! Text Address:0x2705c Allocation Size:4c Text:「気がつけば一晩中、スマホには寂しい＆誰かかまって系の粘着メッセージを……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x270a9 Allocation Size:1a Text:「それ都心でも同じじゃん」
+-Find Target! Text Address:0x270a9 Allocation Size:1a Text:「それ都心でも同じじゃん」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x270f1 Allocation Size:1e Text:「そして田舎の女はすぐに脱ぐ」
+-Find Target! Text Address:0x270f1 Allocation Size:1e Text:「そして田舎の女はすぐに脱ぐ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x2714d Allocation Size:10 Text:「ああ、常識だ」
+-Find Target! Text Address:0x2714d Allocation Size:10 Text:「ああ、常識だ」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x27181 Allocation Size:2e Text:「ちなみにすぐ脱ぐのは秋田と沖縄だ。覚えとけ」
+-Find Target! Text Address:0x27181 Allocation Size:2e Text:「ちなみにすぐ脱ぐのは秋田と沖縄だ。覚えとけ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x271be Allocation Size:16 Text:（どんな偏見だよ……）
+-Find Target! Text Address:0x271be Allocation Size:16 Text:（どんな偏見だよ……）
+
++Find Target! Text Address:0x271d5 Allocation Size:12 Text:あと鳥取県に謝れ。
+-Find Target! Text Address:0x271d5 Allocation Size:12 Text:あと鳥取県に謝れ。
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x27210 Allocation Size:10 Text:「すみませーん」
+-Find Target! Text Address:0x27210 Allocation Size:10 Text:「すみませーん」
+
++Find Target! Text Address:0x27221 Allocation Size:8 Text:ん……？
+-Find Target! Text Address:0x27221 Allocation Size:8 Text:ん……？
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x27232 Allocation Size:44 Text:「ここ、今から軽トラが数台来るので、別の場所に車移してもらえます？」
+-Find Target! Text Address:0x27232 Allocation Size:44 Text:「ここ、今から軽トラが数台来るので、別の場所に車移してもらえます？」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x27293 Allocation Size:64 Text:「この道を真っ直ぐ行った雑木林の裏に、ちょっとした広場があるので、もし車を停めるのであればそちらに」
+-Find Target! Text Address:0x27293 Allocation Size:64 Text:「この道を真っ直ぐ行った雑木林の裏に、ちょっとした広場があるので、もし車を停めるのであればそちらに」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x2730f Allocation Size:56 Text:「あら、ごめんなさーい♪　土地勘がないものだから無闇にこんなところへ乗り入れちゃって」
+-Find Target! Text Address:0x2730f Allocation Size:56 Text:「あら、ごめんなさーい♪　土地勘がないものだから無闇にこんなところへ乗り入れちゃって」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x2736e Allocation Size:44 Text:「じゃあ私、ちょっと車移してくるから、あんたはここで待ってるのよ♪」
+-Find Target! Text Address:0x2736e Allocation Size:44 Text:「じゃあ私、ちょっと車移してくるから、あんたはここで待ってるのよ♪」
+
++Find Target! Text Address:0x26c0f Allocation Size:6 Text:……。
+-Find Target! Text Address:0x26c0f Allocation Size:6 Text:……。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x27424 Allocation Size:26 Text:「明るくて感じの良い人ね。お姉さん？」
+-Find Target! Text Address:0x27424 Allocation Size:26 Text:「明るくて感じの良い人ね。お姉さん？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2744b Allocation Size:18 Text:「ああ。キチガイなんだ」
+-Find Target! Text Address:0x2744b Allocation Size:18 Text:「ああ。キチガイなんだ」
+
++Find Target! Text Address:0x2748e Allocation Size:1c Text:そしてなぜ俺だけ置いていく。
+-Find Target! Text Address:0x2748e Allocation Size:1c Text:そしてなぜ俺だけ置いていく。
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x274d5 Allocation Size:2a Text:「この辺りじゃ全然見かけない顔ね。観光？」
+-Find Target! Text Address:0x274d5 Allocation Size:2a Text:「この辺りじゃ全然見かけない顔ね。観光？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27500 Allocation Size:10 Text:「いや引っ越し」
+-Find Target! Text Address:0x27500 Allocation Size:10 Text:「いや引っ越し」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x2759d Allocation Size:1e Text:「ようこそこんな糞田舎へ～！」
+-Find Target! Text Address:0x2759d Allocation Size:1e Text:「ようこそこんな糞田舎へ～！」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x275ec Allocation Size:30 Text:「まあ何もないところだけど、適当に頑張って……」
+-Find Target! Text Address:0x275ec Allocation Size:30 Text:「まあ何もないところだけど、適当に頑張って……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27635 Allocation Size:38 Text:「でも、よく分かったな。すぐこの辺りの人間じゃないって」
+-Find Target! Text Address:0x27635 Allocation Size:38 Text:「でも、よく分かったな。すぐこの辺りの人間じゃないって」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x27680 Allocation Size:4c Text:「そりゃあね～。こんな場所に住んでれば、嫌でも住民全員の顔は覚えちゃうから」
+-Find Target! Text Address:0x27680 Allocation Size:4c Text:「そりゃあね～。こんな場所に住んでれば、嫌でも住民全員の顔は覚えちゃうから」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x276d5 Allocation Size:e Text:「それに……」
+-Find Target! Text Address:0x276d5 Allocation Size:e Text:「それに……」
+
++Find Target! Text Address:0x276e4 Allocation Size:12 Text:足下を指さされる。
+-Find Target! Text Address:0x276e4 Allocation Size:12 Text:足下を指さされる。
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x27720 Allocation Size:5e Text:「この時期に、そんな綺麗なスラックス履いて、田んぼの真ん中に突っ立ってる地元民なんていないし」
+-Find Target! Text Address:0x27720 Allocation Size:5e Text:「この時期に、そんな綺麗なスラックス履いて、田んぼの真ん中に突っ立ってる地元民なんていないし」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2777f Allocation Size:c Text:「なるほど」
+-Find Target! Text Address:0x2777f Allocation Size:c Text:「なるほど」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x277c7 Allocation Size:2e Text:「あとここ、すぐ近くに高速の出入り口あるから」
+-Find Target! Text Address:0x277c7 Allocation Size:2e Text:「あとここ、すぐ近くに高速の出入り口あるから」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x27832 Allocation Size:4c Text:「珍しくないのよねぇ。遠くから来た車が、幹線道路目指してフラフラ迷い込むの」
+-Find Target! Text Address:0x27832 Allocation Size:4c Text:「珍しくないのよねぇ。遠くから来た車が、幹線道路目指してフラフラ迷い込むの」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x278f0 Allocation Size:2c Text:「私、華野　椎名（かの　しいな）あなたは？」
+-Find Target! Text Address:0x278f0 Allocation Size:2c Text:「私、華野　椎名（かの　しいな）あなたは？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2791d Allocation Size:24 Text:「俺は主人公（姓）　主人公（名）だ」
+-Find Target! Text Address:0x2791d Allocation Size:24 Text:「俺は主人公（姓）　主人公（名）だ」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27954 Allocation Size:16 Text:「そ、じゃよろしく～」
+-Find Target! Text Address:0x27954 Allocation Size:16 Text:「そ、じゃよろしく～」
+
++Find Target! Text Address:0x2796b Allocation Size:20 Text:握手をし、軽く自己紹介をし合う。
+-Find Target! Text Address:0x2796b Allocation Size:20 Text:握手をし、軽く自己紹介をし合う。
+
++Find Target! Text Address:0x2798c Allocation Size:2e Text:すごいなこの子。初対面なのにめっちゃフランク。
+-Find Target! Text Address:0x2798c Allocation Size:2e Text:すごいなこの子。初対面なのにめっちゃフランク。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x279c3 Allocation Size:28 Text:「でも引っ越しかあ。どの辺りに住むの？」
+-Find Target! Text Address:0x279c3 Allocation Size:28 Text:「でも引っ越しかあ。どの辺りに住むの？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27a2b Allocation Size:4c Text:「って……あれか、私馬鹿だ、引っ越しって言ってもこのすぐ近くとは限らないか」
+-Find Target! Text Address:0x27a2b Allocation Size:4c Text:「って……あれか、私馬鹿だ、引っ越しって言ってもこのすぐ近くとは限らないか」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27a78 Allocation Size:18 Text:「いや、この辺りらしい」
+-Find Target! Text Address:0x27a78 Allocation Size:18 Text:「いや、この辺りらしい」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27a91 Allocation Size:5a Text:「詳しい住所はまだ聞いてないけど、今日から俺、姉貴と一緒に婆ちゃん家に住むことになってて」
+-Find Target! Text Address:0x27a91 Allocation Size:5a Text:「詳しい住所はまだ聞いてないけど、今日から俺、姉貴と一緒に婆ちゃん家に住むことになってて」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27af4 Allocation Size:14 Text:「へぇ、そうなんだ」
+-Find Target! Text Address:0x27af4 Allocation Size:14 Text:「へぇ、そうなんだ」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27b32 Allocation Size:52 Text:「でも珍しいわね。誰かが越してくるんなら、大体私の耳にも入ってくるはずなんだけど」
+-Find Target! Text Address:0x27b32 Allocation Size:52 Text:「でも珍しいわね。誰かが越してくるんなら、大体私の耳にも入ってくるはずなんだけど」
+
++Find Target! Text Address:0x27b85 Allocation Size:2e Text:そう言うと、突然田んぼの方へしゃがみ込む彼女。
+-Find Target! Text Address:0x27b85 Allocation Size:2e Text:そう言うと、突然田んぼの方へしゃがみ込む彼女。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27c0f Allocation Size:e Text:「よっ、ほっ」
+-Find Target! Text Address:0x27c0f Allocation Size:e Text:「よっ、ほっ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27c1e Allocation Size:10 Text:「何してるの？」
+-Find Target! Text Address:0x27c1e Allocation Size:10 Text:「何してるの？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27c37 Allocation Size:1a Text:「具合見てるの。土の具合」
+-Find Target! Text Address:0x27c37 Allocation Size:1a Text:「具合見てるの。土の具合」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27c5a Allocation Size:6e Text:「今日ね、一度この田んぼに苗を移すの。田植えはまだ先だけど、最初はある程度成長させないと苗がヘタっちゃうから」
+-Find Target! Text Address:0x27c5a Allocation Size:6e Text:「今日ね、一度この田んぼに苗を移すの。田植えはまだ先だけど、最初はある程度成長させないと苗がヘタっちゃうから」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27cc9 Allocation Size:c Text:「へぇ……」
+-Find Target! Text Address:0x27cc9 Allocation Size:c Text:「へぇ……」
+
++Find Target! Text Address:0x27cd6 Allocation Size:30 Text:自分でも意外なことに、ちょっと興味が湧いてくる。
+-Find Target! Text Address:0x27cd6 Allocation Size:30 Text:自分でも意外なことに、ちょっと興味が湧いてくる。
+
++Find Target! Text Address:0x27d07 Allocation Size:48 Text:田舎田舎と騒いではいたが、俺は興味を持つと割と自然に順応できるタイプだ。
+-Find Target! Text Address:0x27d07 Allocation Size:48 Text:田舎田舎と騒いではいたが、俺は興味を持つと割と自然に順応できるタイプだ。
+
++Find Target! Text Address:0x27d50 Allocation Size:26 Text:ただし、虫だけは何があっても絶対無理。
+-Find Target! Text Address:0x27d50 Allocation Size:26 Text:ただし、虫だけは何があっても絶対無理。
+
++Find Target! Text Address:0x27d77 Allocation Size:40 Text:ゴキはもちろんのこと、バッタやカマキリですら発狂する自信がある。
+-Find Target! Text Address:0x27d77 Allocation Size:40 Text:ゴキはもちろんのこと、バッタやカマキリですら発狂する自信がある。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x27dca Allocation Size:16 Text:「ふんふんふふ～ん♪」
+-Find Target! Text Address:0x27dca Allocation Size:16 Text:「ふんふんふふ～ん♪」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x27de1 Allocation Size:14 Text:し、しかしこの子……
+-Find Target! Text Address:0x27de1 Allocation Size:14 Text:し、しかしこの子……
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27df6 Allocation Size:10 Text:（エロいな……）
+-Find Target! Text Address:0x27df6 Allocation Size:10 Text:（エロいな……）
+
++Find Target! Text Address:0x27e07 Allocation Size:54 Text:しゃがんでいるせいで、彼女の腰回りの白い肌が、さっきからチラチラと視界に入ってくる。
+-Find Target! Text Address:0x27e07 Allocation Size:54 Text:しゃがんでいるせいで、彼女の腰回りの白い肌が、さっきからチラチラと視界に入ってくる。
+
++Find Target! Text Address:0x27e5c Allocation Size:44 Text:まさか田舎系女子は、みんなしてここまで無防備だったりするのだろうか。
+-Find Target! Text Address:0x27e5c Allocation Size:44 Text:まさか田舎系女子は、みんなしてここまで無防備だったりするのだろうか。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27ef6 Allocation Size:2e Text:こちらの視線にはまったく関心がなさそうな彼女。
+-Find Target! Text Address:0x27ef6 Allocation Size:2e Text:こちらの視線にはまったく関心がなさそうな彼女。
+
++Find Target! Text Address:0x27f25 Allocation Size:40 Text:肌も綺麗だし、俺の見立てじゃ、これはめっちゃモテそうな気がする。
+-Find Target! Text Address:0x27f25 Allocation Size:40 Text:肌も綺麗だし、俺の見立てじゃ、これはめっちゃモテそうな気がする。
+
++Find Target! Text Address:0x27f66 Allocation Size:22 Text:声も良く通るし、ハキハキしてるし。
+-Find Target! Text Address:0x27f66 Allocation Size:22 Text:声も良く通るし、ハキハキしてるし。
+
++Find Target! Text Address:0x27f89 Allocation Size:48 Text:これはあれだ、自分の可愛さはハッキリ自覚している優等生タイプに違いない。
+-Find Target! Text Address:0x27f89 Allocation Size:48 Text:これはあれだ、自分の可愛さはハッキリ自覚している優等生タイプに違いない。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27fd2 Allocation Size:18 Text:（田舎美人、万歳……！）
+-Find Target! Text Address:0x27fd2 Allocation Size:18 Text:（田舎美人、万歳……！）
+
++Find Target! Text Address:0x27feb Allocation Size:a Text:繰り返す。
+-Find Target! Text Address:0x27feb Allocation Size:a Text:繰り返す。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28040 Allocation Size:4c Text:「あ、ほら見て、オタマジャクシ。こっちには小さいけどドジョウも結構泳いでて」
+-Find Target! Text Address:0x28040 Allocation Size:4c Text:「あ、ほら見て、オタマジャクシ。こっちには小さいけどドジョウも結構泳いでて」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x2809f Allocation Size:10 Text:「それから……」
+-Find Target! Text Address:0x2809f Allocation Size:10 Text:「それから……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x280b0 Allocation Size:14 Text:「うん、それから？」
+-Find Target! Text Address:0x280b0 Allocation Size:14 Text:「うん、それから？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28104 Allocation Size:22 Text:「あの、ちょっとどこ見てるわけ？」
+-Find Target! Text Address:0x28104 Allocation Size:22 Text:「あの、ちょっとどこ見てるわけ？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x281de Allocation Size:2c Text:「待て、冷静になるんだ。お互い初対面だぞ？」
+-Find Target! Text Address:0x281de Allocation Size:2c Text:「待て、冷静になるんだ。お互い初対面だぞ？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x2821d Allocation Size:c Text:「だから？」
+-Find Target! Text Address:0x2821d Allocation Size:c Text:「だから？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2822a Allocation Size:48 Text:「いや、だからじゃなくて、いきなりそんな相手のケツをジロジロ見るなんて」
+-Find Target! Text Address:0x2822a Allocation Size:48 Text:「いや、だからじゃなくて、いきなりそんな相手のケツをジロジロ見るなんて」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x282ad Allocation Size:28 Text:「うわどうしよ、めっちゃコメントに困る」
+-Find Target! Text Address:0x282ad Allocation Size:28 Text:「うわどうしよ、めっちゃコメントに困る」
+
++Find Target! Text Address:0x282d6 Allocation Size:16 Text:ああ、そうだろうとも。
+-Find Target! Text Address:0x282d6 Allocation Size:16 Text:ああ、そうだろうとも。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28300 Allocation Size:44 Text:「一応保身のために言っておくが、男にもちゃんと羞恥心はあるからな？」
+-Find Target! Text Address:0x28300 Allocation Size:44 Text:「一応保身のために言っておくが、男にもちゃんと羞恥心はあるからな？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28345 Allocation Size:4e Text:「さっき握手したばかりの女子に、いきなりそんな視線送ったら普通にセクハラだろ」
+-Find Target! Text Address:0x28345 Allocation Size:4e Text:「さっき握手したばかりの女子に、いきなりそんな視線送ったら普通にセクハラだろ」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x283c5 Allocation Size:14 Text:「え、え～っと……」
+-Find Target! Text Address:0x283c5 Allocation Size:14 Text:「え、え～っと……」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x283f9 Allocation Size:3c Text:「まあそうね、ごめんごめん、なんか私勘違いしちゃったみたい」
+-Find Target! Text Address:0x283f9 Allocation Size:3c Text:「まあそうね、ごめんごめん、なんか私勘違いしちゃったみたい」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28470 Allocation Size:30 Text:「そうよね、男子にだって羞恥心くらいあるもんね」
+-Find Target! Text Address:0x28470 Allocation Size:30 Text:「そうよね、男子にだって羞恥心くらいあるもんね」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x284a1 Allocation Size:14 Text:「わかればいいんだ」
+-Find Target! Text Address:0x284a1 Allocation Size:14 Text:「わかればいいんだ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2858a Allocation Size:26 Text:「失敬な、誰も馬鹿になんかしてないぞ」
+-Find Target! Text Address:0x2858a Allocation Size:26 Text:「失敬な、誰も馬鹿になんかしてないぞ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x285b1 Allocation Size:3e Text:「ただちょっと、妙にフランクな現地民を前に、動揺してるだけだ」
+-Find Target! Text Address:0x285b1 Allocation Size:3e Text:「ただちょっと、妙にフランクな現地民を前に、動揺してるだけだ」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28610 Allocation Size:2e Text:「へぇ、私には全然そんな風には見えないけど？」
+-Find Target! Text Address:0x28610 Allocation Size:2e Text:「へぇ、私には全然そんな風には見えないけど？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28675 Allocation Size:e Text:「じーっ……」
+-Find Target! Text Address:0x28675 Allocation Size:e Text:「じーっ……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x286ba Allocation Size:26 Text:実際嘘ではなく、本当に動揺はしている。
+-Find Target! Text Address:0x286ba Allocation Size:26 Text:実際嘘ではなく、本当に動揺はしている。
+
++Find Target! Text Address:0x286e1 Allocation Size:52 Text:昔から根本的に臆病だった俺は、姉貴以外に本心を悟られそうになると極端にビクついた。
+-Find Target! Text Address:0x286e1 Allocation Size:52 Text:昔から根本的に臆病だった俺は、姉貴以外に本心を悟られそうになると極端にビクついた。
+
++Find Target! Text Address:0x28734 Allocation Size:60 Text:今まで引っ越しの多い人生を送ってきたせいか、行く先々でピエロのようにキャラを変えて生きてきた俺。
+-Find Target! Text Address:0x28734 Allocation Size:60 Text:今まで引っ越しの多い人生を送ってきたせいか、行く先々でピエロのようにキャラを変えて生きてきた俺。
+
++Find Target! Text Address:0x28795 Allocation Size:46 Text:今もいきなり声をかけられ、こうしてドキドキしながら内心キャラを模索中。
+-Find Target! Text Address:0x28795 Allocation Size:46 Text:今もいきなり声をかけられ、こうしてドキドキしながら内心キャラを模索中。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28675 Allocation Size:e Text:「じーっ……」
+-Find Target! Text Address:0x28675 Allocation Size:e Text:「じーっ……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28801 Allocation Size:30 Text:「な、なんだよ。そんなに見つめても金は出さんぞ」
+-Find Target! Text Address:0x28801 Allocation Size:30 Text:「な、なんだよ。そんなに見つめても金は出さんぞ」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28847 Allocation Size:5a Text:「お金なんてどうでもいいわ。今、短時間であなたのプライドを傷つける最適な方法を探してるの」
+-Find Target! Text Address:0x28847 Allocation Size:5a Text:「お金なんてどうでもいいわ。今、短時間であなたのプライドを傷つける最適な方法を探してるの」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x288a2 Allocation Size:c Text:「暇人だな」
+-Find Target! Text Address:0x288a2 Allocation Size:c Text:「暇人だな」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x288b7 Allocation Size:18 Text:「ええ、よく言われる♪」
+-Find Target! Text Address:0x288b7 Allocation Size:18 Text:「ええ、よく言われる♪」
+
++Find Target! Text Address:0x288d0 Allocation Size:30 Text:しかしこの子、俺と歳近そうだけど一体いくつだろ。
+-Find Target! Text Address:0x288d0 Allocation Size:30 Text:しかしこの子、俺と歳近そうだけど一体いくつだろ。
+
++Find Target! Text Address:0x28901 Allocation Size:5a Text:さっきから俺タメ口利いちゃってるけど、これが田舎のデフォルトなら末恐ろしいことこの上ない。
+-Find Target! Text Address:0x28901 Allocation Size:5a Text:さっきから俺タメ口利いちゃってるけど、これが田舎のデフォルトなら末恐ろしいことこの上ない。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28964 Allocation Size:28 Text:「よし決めた、罰としてここで脱ぎなさい」
+-Find Target! Text Address:0x28964 Allocation Size:28 Text:「よし決めた、罰としてここで脱ぎなさい」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x289c9 Allocation Size:2e Text:「ふふっ、なんてね、冗談冗談。これでおあいこ」
+-Find Target! Text Address:0x289c9 Allocation Size:2e Text:「ふふっ、なんてね、冗談冗談。これでおあいこ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28a6f Allocation Size:28 Text:「いや、そっちが脱げって言ったんじゃん」
+-Find Target! Text Address:0x28a6f Allocation Size:28 Text:「いや、そっちが脱げって言ったんじゃん」
+
++Find Target! Text Address:0x28a98 Allocation Size:16 Text:もちろん上半身だけだ。
+-Find Target! Text Address:0x28a98 Allocation Size:16 Text:もちろん上半身だけだ。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28aaf Allocation Size:16 Text:「それで？　感想は？」
+-Find Target! Text Address:0x28aaf Allocation Size:16 Text:「それで？　感想は？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28b79 Allocation Size:8 Text:おじさん
+-Find Target! Text Address:0x28b79 Allocation Size:8 Text:おじさん
+
++Find Target! Text Address:0x28b82 Allocation Size:42 Text:「おい椎名ー！！　お前そんなところで男脱がして何やってんだー！！」
+-Find Target! Text Address:0x28b82 Allocation Size:42 Text:「おい椎名ー！！　お前そんなところで男脱がして何やってんだー！！」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28c39 Allocation Size:16 Text:「それに私、別に……」
+-Find Target! Text Address:0x28c39 Allocation Size:16 Text:「それに私、別に……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28c81 Allocation Size:1c Text:「あんたはもう黙ってて！！」
+-Find Target! Text Address:0x28c81 Allocation Size:1c Text:「あんたはもう黙ってて！！」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28cce Allocation Size:18 Text:「はい到着。まきた荘よ」
+-Find Target! Text Address:0x28cce Allocation Size:18 Text:「はい到着。まきた荘よ」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28cef Allocation Size:3e Text:「民宿と言えば今はこの一軒しかないから、多分間違いないと思う」
+-Find Target! Text Address:0x28cef Allocation Size:3e Text:「民宿と言えば今はこの一軒しかないから、多分間違いないと思う」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28d2e Allocation Size:c Text:「おお……」
+-Find Target! Text Address:0x28d2e Allocation Size:c Text:「おお……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28d3b Allocation Size:26 Text:「これはまた、かなり年季が入ってるな」
+-Find Target! Text Address:0x28d3b Allocation Size:26 Text:「これはまた、かなり年季が入ってるな」
+
++Find Target! Text Address:0x28d6d Allocation Size:24 Text:不景気、旅行者の縮小が叫ばれる昨今。
+-Find Target! Text Address:0x28d6d Allocation Size:24 Text:不景気、旅行者の縮小が叫ばれる昨今。
+
++Find Target! Text Address:0x28d92 Allocation Size:44 Text:地方ではホテルや旅館も苦戦している中で、今でも民宿経営とは恐れ入る。
+-Find Target! Text Address:0x28d92 Allocation Size:44 Text:地方ではホテルや旅館も苦戦している中で、今でも民宿経営とは恐れ入る。
+
++Find Target! Text Address:0x28dd7 Allocation Size:40 Text:見たところ、周りには目立つ観光スポットや行楽地もなさそうなのに。
+-Find Target! Text Address:0x28dd7 Allocation Size:40 Text:見たところ、周りには目立つ観光スポットや行楽地もなさそうなのに。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28e18 Allocation Size:2e Text:「この町って、民宿作るほど外から人集まるの？」
+-Find Target! Text Address:0x28e18 Allocation Size:2e Text:「この町って、民宿作るほど外から人集まるの？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28e4f Allocation Size:1a Text:「うーん、季節によるかな」
+-Find Target! Text Address:0x28e4f Allocation Size:1a Text:「うーん、季節によるかな」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28e72 Allocation Size:40 Text:「夏だとここ、歩いて海岸までいけるし、秋は秋で紅葉も綺麗だから」
+-Find Target! Text Address:0x28e72 Allocation Size:40 Text:「夏だとここ、歩いて海岸までいけるし、秋は秋で紅葉も綺麗だから」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28eb3 Allocation Size:1a Text:「へぇ、ここ海も近いんだ」
+-Find Target! Text Address:0x28eb3 Allocation Size:1a Text:「へぇ、ここ海も近いんだ」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28ee0 Allocation Size:3a Text:「ええ、歩いてって言っても割と距離あるけど、車ならすぐね」
+-Find Target! Text Address:0x28ee0 Allocation Size:3a Text:「ええ、歩いてって言っても割と距離あるけど、車ならすぐね」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x28f23 Allocation Size:64 Text:「磯とか岩場がメインだからかなり地味だけど、隣町との境目まで行けば、一応それなりの海水浴場もあるわ」
+-Find Target! Text Address:0x28f23 Allocation Size:64 Text:「磯とか岩場がメインだからかなり地味だけど、隣町との境目まで行けば、一応それなりの海水浴場もあるわ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x28f88 Allocation Size:28 Text:「じゃあ夏場はサーファーとか来そうだな」
+-Find Target! Text Address:0x28f88 Allocation Size:28 Text:「じゃあ夏場はサーファーとか来そうだな」
+
++Find Target! Text Address:0x28fb1 Allocation Size:32 Text:あいつら、シーズン問わず波が高いと集まってくるし。
+-Find Target! Text Address:0x28fb1 Allocation Size:32 Text:あいつら、シーズン問わず波が高いと集まってくるし。
+
++Find Target! Text Address:0x28fe4 Allocation Size:38 Text:そうなるとこの民宿も、夏場は想像より賑やかになるのかも。
+-Find Target! Text Address:0x28fe4 Allocation Size:38 Text:そうなるとこの民宿も、夏場は想像より賑やかになるのかも。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x29049 Allocation Size:34 Text:「じゃあ私田んぼ戻るから。ウメ婆ちゃんによろしく～」
+-Find Target! Text Address:0x29049 Allocation Size:34 Text:「じゃあ私田んぼ戻るから。ウメ婆ちゃんによろしく～」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2907e Allocation Size:12 Text:「ウメ婆ちゃん？」
+-Find Target! Text Address:0x2907e Allocation Size:12 Text:「ウメ婆ちゃん？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x290a3 Allocation Size:4a Text:「あれ？　あなたウメ婆の親戚じゃないの？　だってここに引っ越すんでしょ？」
+-Find Target! Text Address:0x290a3 Allocation Size:4a Text:「あれ？　あなたウメ婆の親戚じゃないの？　だってここに引っ越すんでしょ？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x290ee Allocation Size:5a Text:「いや、ここに住むかはまだ聞いてないけど、とりあえず俺の婆ちゃんはこの民宿にいるらしくて」
+-Find Target! Text Address:0x290ee Allocation Size:5a Text:「いや、ここに住むかはまだ聞いてないけど、とりあえず俺の婆ちゃんはこの民宿にいるらしくて」
+
++Find Target! Text Address:0x29149 Allocation Size:24 Text:俺たち姉弟の引っ越しはいつも突然だ。
+-Find Target! Text Address:0x29149 Allocation Size:24 Text:俺たち姉弟の引っ越しはいつも突然だ。
+
++Find Target! Text Address:0x2916e Allocation Size:58 Text:理由はその都度色々あるが、俺も慣れたもので一々細かいことは姉貴に聞かないことにしている。
+-Find Target! Text Address:0x2916e Allocation Size:58 Text:理由はその都度色々あるが、俺も慣れたもので一々細かいことは姉貴に聞かないことにしている。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x291dd Allocation Size:a Text:「じーっ」
+-Find Target! Text Address:0x291dd Allocation Size:a Text:「じーっ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x291e8 Allocation Size:10 Text:「な、何……？」
+-Find Target! Text Address:0x291e8 Allocation Size:10 Text:「な、何……？」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x29201 Allocation Size:34 Text:「あ、いや。あのウメ婆に人間の孫がいるなんて驚きで」
+-Find Target! Text Address:0x29201 Allocation Size:34 Text:「あ、いや。あのウメ婆に人間の孫がいるなんて驚きで」
+
++Find Target! Text Address:0x29236 Allocation Size:26 Text:いや人間じゃなかったら何がいるんだよ。
+-Find Target! Text Address:0x29236 Allocation Size:26 Text:いや人間じゃなかったら何がいるんだよ。
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x29265 Allocation Size:32 Text:「まあとにかく、私今日は夕方まで田んぼにいるから」
+-Find Target! Text Address:0x29265 Allocation Size:32 Text:「まあとにかく、私今日は夕方まで田んぼにいるから」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x292a0 Allocation Size:2e Text:「何か困ったことがあったら、気軽に声かけて？」
+-Find Target! Text Address:0x292a0 Allocation Size:2e Text:「何か困ったことがあったら、気軽に声かけて？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x292cf Allocation Size:20 Text:「ああ、親切にどうもありがとう」
+-Find Target! Text Address:0x292cf Allocation Size:20 Text:「ああ、親切にどうもありがとう」
+
++Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+-Find Target! Text Address:0x278eb Allocation Size:4 Text:椎名
+
++Find Target! Text Address:0x292f8 Allocation Size:e Text:「いえいえ～」
+-Find Target! Text Address:0x292f8 Allocation Size:e Text:「いえいえ～」
+
++Find Target! Text Address:0x29315 Allocation Size:38 Text:そう言うと手を振りながら田んぼの方へ引き返していく彼女。
+-Find Target! Text Address:0x29315 Allocation Size:38 Text:そう言うと手を振りながら田んぼの方へ引き返していく彼女。
+
++Find Target! Text Address:0x2934e Allocation Size:18 Text:名前、なんて言ったっけ。
+-Find Target! Text Address:0x2934e Allocation Size:18 Text:名前、なんて言ったっけ。
+
++Find Target! Text Address:0x29367 Allocation Size:34 Text:最後までついタメ口で喋っちゃったけど、後悔既に遅し。
+-Find Target! Text Address:0x29367 Allocation Size:34 Text:最後までついタメ口で喋っちゃったけど、後悔既に遅し。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2939c Allocation Size:2a Text:「とりあえず先に、挨拶だけしておくか……」
+-Find Target! Text Address:0x2939c Allocation Size:2a Text:「とりあえず先に、挨拶だけしておくか……」
+
++Find Target! Text Address:0x293c7 Allocation Size:26 Text:しかし姉貴はどこへ行ってしまったのか。
+-Find Target! Text Address:0x293c7 Allocation Size:26 Text:しかし姉貴はどこへ行ってしまったのか。
+
++Find Target! Text Address:0x293ee Allocation Size:4a Text:電話もチャットも無反応だし、あっちは車な分、こちらから探すのは骨が折れる。
+-Find Target! Text Address:0x293ee Allocation Size:4a Text:電話もチャットも無反応だし、あっちは車な分、こちらから探すのは骨が折れる。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29442 Allocation Size:14 Text:「ごめんくださーい」
+-Find Target! Text Address:0x29442 Allocation Size:14 Text:「ごめんくださーい」
+
++Find Target! Text Address:0x26c0f Allocation Size:6 Text:……。
+-Find Target! Text Address:0x26c0f Allocation Size:6 Text:……。
+
++Find Target! Text Address:0x29457 Allocation Size:c Text:反応がない。
+-Find Target! Text Address:0x29457 Allocation Size:c Text:反応がない。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29464 Allocation Size:10 Text:（留守か……？）
+-Find Target! Text Address:0x29464 Allocation Size:10 Text:（留守か……？）
+
++Find Target! Text Address:0x29475 Allocation Size:24 Text:いやいや、流石に連絡はしているはず。
+-Find Target! Text Address:0x29475 Allocation Size:24 Text:いやいや、流石に連絡はしているはず。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x294e2 Allocation Size:14 Text:「はぁ、はぁ……！」
+-Find Target! Text Address:0x294e2 Allocation Size:14 Text:「はぁ、はぁ……！」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x29520 Allocation Size:42 Text:「す、すみません……！！　ちょっとだけ裏の畑の方へ行ってて……！」
+-Find Target! Text Address:0x29520 Allocation Size:42 Text:「す、すみません……！！　ちょっとだけ裏の畑の方へ行ってて……！」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x2958c Allocation Size:2c Text:「あ、あの、どうぞ中へ、今お茶入れますので」
+-Find Target! Text Address:0x2958c Allocation Size:2c Text:「あ、あの、どうぞ中へ、今お茶入れますので」
+
++Find Target! Text Address:0x295f9 Allocation Size:2c Text:居間に通され、適当な椅子に座るよう言われる。
+-Find Target! Text Address:0x295f9 Allocation Size:2c Text:居間に通され、適当な椅子に座るよう言われる。
+
++Find Target! Text Address:0x29626 Allocation Size:58 Text:居間と言ってもテーブルや椅子が複数あるこの部屋は、パッと見た感じ食堂に近い印象を受ける。
+-Find Target! Text Address:0x29626 Allocation Size:58 Text:居間と言ってもテーブルや椅子が複数あるこの部屋は、パッと見た感じ食堂に近い印象を受ける。
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x296d0 Allocation Size:28 Text:「遠いところから長時間、お疲れ様でした」
+-Find Target! Text Address:0x296d0 Allocation Size:28 Text:「遠いところから長時間、お疲れ様でした」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x2972b Allocation Size:40 Text:「あの、すみません。今ちょっと、ほうじ茶しか用意出来なくて……」
+-Find Target! Text Address:0x2972b Allocation Size:40 Text:「あの、すみません。今ちょっと、ほうじ茶しか用意出来なくて……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2976c Allocation Size:1e Text:「あ、いや。全然気にしないで」
+-Find Target! Text Address:0x2976c Allocation Size:1e Text:「あ、いや。全然気にしないで」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2978b Allocation Size:28 Text:「俺ほうじ茶好きだし、むしろありがとう」
+-Find Target! Text Address:0x2978b Allocation Size:28 Text:「俺ほうじ茶好きだし、むしろありがとう」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x297c6 Allocation Size:4a Text:「あの、お腹減っていませんか？　もしあれだったら、今から何か作りますけど」
+-Find Target! Text Address:0x297c6 Allocation Size:4a Text:「あの、お腹減っていませんか？　もしあれだったら、今から何か作りますけど」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29825 Allocation Size:28 Text:「そこまでしていただくわけには……！！」
+-Find Target! Text Address:0x29825 Allocation Size:28 Text:「そこまでしていただくわけには……！！」
+
++Find Target! Text Address:0x2984e Allocation Size:36 Text:実は俺、ゲスト扱いされると途端に及び腰になってしまう。
+-Find Target! Text Address:0x2984e Allocation Size:36 Text:実は俺、ゲスト扱いされると途端に及び腰になってしまう。
+
++Find Target! Text Address:0x29885 Allocation Size:46 Text:理由は色々あるけれど、一度こうして丁寧に扱われると妙なスイッチが……！
+-Find Target! Text Address:0x29885 Allocation Size:46 Text:理由は色々あるけれど、一度こうして丁寧に扱われると妙なスイッチが……！
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x298e7 Allocation Size:30 Text:「ウメお婆ちゃん、今ちょっと出かけているんです」
+-Find Target! Text Address:0x298e7 Allocation Size:30 Text:「ウメお婆ちゃん、今ちょっと出かけているんです」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x29949 Allocation Size:2c Text:「３時前には戻るって言ってたんですけど……」
+-Find Target! Text Address:0x29949 Allocation Size:2c Text:「３時前には戻るって言ってたんですけど……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x29991 Allocation Size:24 Text:会話が途切れると、ちょっと気まずい。
+-Find Target! Text Address:0x29991 Allocation Size:24 Text:会話が途切れると、ちょっと気まずい。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x299b6 Allocation Size:2c Text:「あの、とりあえず自己紹介してもいい……？」
+-Find Target! Text Address:0x299b6 Allocation Size:2c Text:「あの、とりあえず自己紹介してもいい……？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x299e3 Allocation Size:48 Text:「なんか俺、ここへ来たらいきなり婆ちゃんが出てくるもんだと思ってて……」
+-Find Target! Text Address:0x299e3 Allocation Size:48 Text:「なんか俺、ここへ来たらいきなり婆ちゃんが出てくるもんだと思ってて……」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x29a5a Allocation Size:42 Text:「あっ！　すみません！　そうですよね、普通ビックリしますよね……」
+-Find Target! Text Address:0x29a5a Allocation Size:42 Text:「あっ！　すみません！　そうですよね、普通ビックリしますよね……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29ac6 Allocation Size:4e Text:「私、この民宿の近所に住んでいます。如月（きさらぎ）と言います。如月のえです」
+-Find Target! Text Address:0x29ac6 Allocation Size:4e Text:「私、この民宿の近所に住んでいます。如月（きさらぎ）と言います。如月のえです」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29b35 Allocation Size:32 Text:「ウメお婆ちゃんには昔から良くして頂いていまして」
+-Find Target! Text Address:0x29b35 Allocation Size:32 Text:「ウメお婆ちゃんには昔から良くして頂いていまして」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29b7a Allocation Size:52 Text:「今日みたいに学校が休みの日は、時々こちらへ、家事や畑のお手伝いに来ているんです」
+-Find Target! Text Address:0x29b7a Allocation Size:52 Text:「今日みたいに学校が休みの日は、時々こちらへ、家事や畑のお手伝いに来ているんです」
+
++Find Target! Text Address:0x29bcd Allocation Size:42 Text:そこまで言うと、慣れた手つきでゲンコツせんべいを出してくれる彼女。
+-Find Target! Text Address:0x29bcd Allocation Size:42 Text:そこまで言うと、慣れた手つきでゲンコツせんべいを出してくれる彼女。
+
++Find Target! Text Address:0x29c10 Allocation Size:50 Text:その自然な動作から細かい話を聞かなくとも、この民宿への馴染みっぷりが想像出来る。
+-Find Target! Text Address:0x29c10 Allocation Size:50 Text:その自然な動作から細かい話を聞かなくとも、この民宿への馴染みっぷりが想像出来る。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29c61 Allocation Size:16 Text:「でも本当に驚いたよ」
+-Find Target! Text Address:0x29c61 Allocation Size:16 Text:「でも本当に驚いたよ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29cc7 Allocation Size:28 Text:「俺一瞬、訪ねる場所間違えたかと思って」
+-Find Target! Text Address:0x29cc7 Allocation Size:28 Text:「俺一瞬、訪ねる場所間違えたかと思って」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29d1f Allocation Size:12 Text:「あ、あはは……」
+-Find Target! Text Address:0x29d1f Allocation Size:12 Text:「あ、あはは……」
+
++Find Target! Text Address:0x29d32 Allocation Size:38 Text:せっかく入れてもらったので、ここは素直にお茶を口にする。
+-Find Target! Text Address:0x29d32 Allocation Size:38 Text:せっかく入れてもらったので、ここは素直にお茶を口にする。
+
++Find Target! Text Address:0x29d6b Allocation Size:5c Text:ほうじ茶の香ばしい香りを感じつつ、窓が開いているのか、外から入り込んでくる風も心地よかった。
+-Find Target! Text Address:0x29d6b Allocation Size:5c Text:ほうじ茶の香ばしい香りを感じつつ、窓が開いているのか、外から入り込んでくる風も心地よかった。
+
++Find Target! Text Address:0x29dc8 Allocation Size:4c Text:今まで暮らしていた町とは違い、田んぼや畑から来る土の香りのせいかもしれない。
+-Find Target! Text Address:0x29dc8 Allocation Size:4c Text:今まで暮らしていた町とは違い、田んぼや畑から来る土の香りのせいかもしれない。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29e34 Allocation Size:20 Text:「あのさ、一つ質問してもいい？」
+-Find Target! Text Address:0x29e34 Allocation Size:20 Text:「あのさ、一つ質問してもいい？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29e9e Allocation Size:3a Text:「なんかここから見えるんだけど、庭にあるあの赤いやつ何？」
+-Find Target! Text Address:0x29e9e Allocation Size:3a Text:「なんかここから見えるんだけど、庭にあるあの赤いやつ何？」
+
++Find Target! Text Address:0x29ed9 Allocation Size:2e Text:一見すると、自転車の空気入れのようにも見える。
+-Find Target! Text Address:0x29ed9 Allocation Size:2e Text:一見すると、自転車の空気入れのようにも見える。
+
++Find Target! Text Address:0x29f08 Allocation Size:52 Text:しかし金属製のタンクが備え付けてあり、大きさも異様なことから明らかに違うとわかる。
+-Find Target! Text Address:0x29f08 Allocation Size:52 Text:しかし金属製のタンクが備え付けてあり、大きさも異様なことから明らかに違うとわかる。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29f63 Allocation Size:16 Text:「ああ、爆音機ですね」
+-Find Target! Text Address:0x29f63 Allocation Size:16 Text:「ああ、爆音機ですね」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29f7a Allocation Size:14 Text:「ば、爆音機……？」
+-Find Target! Text Address:0x29f7a Allocation Size:14 Text:「ば、爆音機……？」
+
++Find Target! Text Address:0x29f99 Allocation Size:1a Text:何それ、めっちゃ気になる。
+-Find Target! Text Address:0x29f99 Allocation Size:1a Text:何それ、めっちゃ気になる。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29fbc Allocation Size:66 Text:「バードキラーとか他にも言い方はあるんですけど、畑や田んぼに近づく動物を、あれを使って追い払うんです」
+-Find Target! Text Address:0x29fbc Allocation Size:66 Text:「バードキラーとか他にも言い方はあるんですけど、畑や田んぼに近づく動物を、あれを使って追い払うんです」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a02b Allocation Size:56 Text:「プロパンガスを使って大きな音を出す仕組みで、大抵の動物はみんな驚いて逃げちゃいます」
+-Find Target! Text Address:0x2a02b Allocation Size:56 Text:「プロパンガスを使って大きな音を出す仕組みで、大抵の動物はみんな驚いて逃げちゃいます」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x27cc9 Allocation Size:c Text:「へぇ……」
+-Find Target! Text Address:0x27cc9 Allocation Size:c Text:「へぇ……」
+
++Find Target! Text Address:0x2a082 Allocation Size:1a Text:爆音機なんて初めて知った。
+-Find Target! Text Address:0x2a082 Allocation Size:1a Text:爆音機なんて初めて知った。
+
++Find Target! Text Address:0x2a09d Allocation Size:4c Text:都会のコンビニにも一台あれば、深夜に群がるヤンキー共も一掃できるに違いない。
+-Find Target! Text Address:0x2a09d Allocation Size:4c Text:都会のコンビニにも一台あれば、深夜に群がるヤンキー共も一掃できるに違いない。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2a0ea Allocation Size:26 Text:「あれって、今すぐ使えたりする……？」
+-Find Target! Text Address:0x2a0ea Allocation Size:26 Text:「あれって、今すぐ使えたりする……？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a131 Allocation Size:e Text:「えっと……」
+-Find Target! Text Address:0x2a131 Allocation Size:e Text:「えっと……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a148 Allocation Size:46 Text:「もし使うんでしたら、ここじゃなくてもっと広い場所に設置しないと……」
+-Find Target! Text Address:0x2a148 Allocation Size:46 Text:「もし使うんでしたら、ここじゃなくてもっと広い場所に設置しないと……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2a1d8 Allocation Size:54 Text:「ちょ、ちょっと待って！？　今ヤバい！！　なんかめっちゃ嫌な音したんだけど……！！」
+-Find Target! Text Address:0x2a1d8 Allocation Size:54 Text:「ちょ、ちょっと待って！？　今ヤバい！！　なんかめっちゃ嫌な音したんだけど……！！」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a276 Allocation Size:14 Text:「ああ、ハチですね」
+-Find Target! Text Address:0x2a276 Allocation Size:14 Text:「ああ、ハチですね」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a2a7 Allocation Size:14 Text:「今のはえっと……」
+-Find Target! Text Address:0x2a2a7 Allocation Size:14 Text:「今のはえっと……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a2c4 Allocation Size:22 Text:「多分オオスズメバチだと思います」
+-Find Target! Text Address:0x2a2c4 Allocation Size:22 Text:「多分オオスズメバチだと思います」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2a3ae Allocation Size:1c Text:頭を低くし、全力で逃げ回る。
+-Find Target! Text Address:0x2a3ae Allocation Size:1c Text:頭を低くし、全力で逃げ回る。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a3d3 Allocation Size:3c Text:「お、落ち着いて下さい……！！　走り回ると怪我しますよ！？」
+-Find Target! Text Address:0x2a3d3 Allocation Size:3c Text:「お、落ち着いて下さい……！！　走り回ると怪我しますよ！？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2a452 Allocation Size:30 Text:やたら俺の周りを低空飛行してくるこのスズメバチ。
+-Find Target! Text Address:0x2a452 Allocation Size:30 Text:やたら俺の周りを低空飛行してくるこのスズメバチ。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2a586 Allocation Size:c Text:「え……？」
+-Find Target! Text Address:0x2a586 Allocation Size:c Text:「え……？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a5c6 Allocation Size:3a Text:「この時期のスズメバチは、人に対して攻撃的ではありません」
+-Find Target! Text Address:0x2a5c6 Allocation Size:3a Text:「この時期のスズメバチは、人に対して攻撃的ではありません」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a63d Allocation Size:58 Text:「むしろ冬を越したばかりの女王バチしかいないので、こちらから手を出さない限りは無害です」
+-Find Target! Text Address:0x2a63d Allocation Size:58 Text:「むしろ冬を越したばかりの女王バチしかいないので、こちらから手を出さない限りは無害です」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a6c8 Allocation Size:54 Text:「ハチはイメージだけで敬遠されがちですが、私たち人間も、正しい知識を持って接すれば」
+-Find Target! Text Address:0x2a6c8 Allocation Size:54 Text:「ハチはイメージだけで敬遠されがちですが、私たち人間も、正しい知識を持って接すれば」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a84f Allocation Size:4c Text:「気のせいです！　私が追い払うのでしばらく端っこに逃げていて下さい……！！」
+-Find Target! Text Address:0x2a84f Allocation Size:4c Text:「気のせいです！　私が追い払うのでしばらく端っこに逃げていて下さい……！！」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2a8bf Allocation Size:14 Text:「はぁ……はぁ……」
+-Find Target! Text Address:0x2a8bf Allocation Size:14 Text:「はぁ……はぁ……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2a8d4 Allocation Size:2a Text:「あ、あの……ハチもうどっか行った……？」
+-Find Target! Text Address:0x2a8d4 Allocation Size:2a Text:「あ、あの……ハチもうどっか行った……？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a923 Allocation Size:40 Text:「あの、追い出したのは私なのに、なんで息切れしているんですか？」
+-Find Target! Text Address:0x2a923 Allocation Size:40 Text:「あの、追い出したのは私なのに、なんで息切れしているんですか？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2a982 Allocation Size:5e Text:「スズメバチは確かに刺されると危険ですが、基本的にこちらが巣に近づかない限りは大丈夫ですよ？」
+-Find Target! Text Address:0x2a982 Allocation Size:5e Text:「スズメバチは確かに刺されると危険ですが、基本的にこちらが巣に近づかない限りは大丈夫ですよ？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2aa0f Allocation Size:48 Text:「交尾が盛んになる９月の中旬から、１０月の終わり頃までは例外ですが……」
+-Find Target! Text Address:0x2aa0f Allocation Size:48 Text:「交尾が盛んになる９月の中旬から、１０月の終わり頃までは例外ですが……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2aa58 Allocation Size:4e Text:「いや交尾がどうとか関係ないから。あんなの俺からすると恐怖の対象でしかないし」
+-Find Target! Text Address:0x2aa58 Allocation Size:4e Text:「いや交尾がどうとか関係ないから。あんなの俺からすると恐怖の対象でしかないし」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2aacd Allocation Size:20 Text:「あ、あの……ごめんなさい……」
+-Find Target! Text Address:0x2aacd Allocation Size:20 Text:「あ、あの……ごめんなさい……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2aaee Allocation Size:1c Text:「ん？　なんで急に謝るの？」
+-Find Target! Text Address:0x2aaee Allocation Size:1c Text:「ん？　なんで急に謝るの？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2ab3d Allocation Size:e Text:「わ、私……」
+-Find Target! Text Address:0x2ab3d Allocation Size:e Text:「わ、私……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2ab93 Allocation Size:22 Text:「いきなり……交尾とか言って……」
+-Find Target! Text Address:0x2ab93 Allocation Size:22 Text:「いきなり……交尾とか言って……」
+
++Find Target! Text Address:0x2abb6 Allocation Size:c Text:どうしよう。
+-Find Target! Text Address:0x2abb6 Allocation Size:c Text:どうしよう。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2ac18 Allocation Size:4c Text:「あの……お婆ちゃんまだ来ないみたいなので、先にお部屋の方へ案内しますね？」
+-Find Target! Text Address:0x2ac18 Allocation Size:4c Text:「あの……お婆ちゃんまだ来ないみたいなので、先にお部屋の方へ案内しますね？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2ac65 Allocation Size:2a Text:「部屋って、俺やっぱりここに住むの……？」
+-Find Target! Text Address:0x2ac65 Allocation Size:2a Text:「部屋って、俺やっぱりここに住むの……？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2aca2 Allocation Size:34 Text:「あれ？　違うんですか？　私はそう聞いていますけど」
+-Find Target! Text Address:0x2aca2 Allocation Size:34 Text:「あれ？　違うんですか？　私はそう聞いていますけど」
+
++Find Target! Text Address:0x2acd7 Allocation Size:1e Text:ハチのいる家なんて絶対無理だ。
+-Find Target! Text Address:0x2acd7 Allocation Size:1e Text:ハチのいる家なんて絶対無理だ。
+
++Find Target! Text Address:0x2acf6 Allocation Size:28 Text:これはどうにかして、対応策を考えないと。
+-Find Target! Text Address:0x2acf6 Allocation Size:28 Text:これはどうにかして、対応策を考えないと。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2ad30 Allocation Size:30 Text:「ここが今日から小早川君の使うお部屋になります」
+-Find Target! Text Address:0x2ad30 Allocation Size:30 Text:「ここが今日から小早川君の使うお部屋になります」
+
++Find Target! Text Address:0x2ad61 Allocation Size:8 Text:おお～。
+-Find Target! Text Address:0x2ad61 Allocation Size:8 Text:おお～。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2ad72 Allocation Size:2e Text:「ここが今日から使ってもらうお部屋になります」
+-Find Target! Text Address:0x2ad72 Allocation Size:2e Text:「ここが今日から使ってもらうお部屋になります」
+
++Find Target! Text Address:0x2ad61 Allocation Size:8 Text:おお～。
+-Find Target! Text Address:0x2ad61 Allocation Size:8 Text:おお～。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2ada1 Allocation Size:14 Text:「ハチいない……？」
+-Find Target! Text Address:0x2ada1 Allocation Size:14 Text:「ハチいない……？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2adbe Allocation Size:18 Text:「ふふっ、大丈夫ですよ」
+-Find Target! Text Address:0x2adbe Allocation Size:18 Text:「ふふっ、大丈夫ですよ」
+
++Find Target! Text Address:0x2add7 Allocation Size:22 Text:一応部屋の様子を確認してから入る。
+-Find Target! Text Address:0x2add7 Allocation Size:22 Text:一応部屋の様子を確認してから入る。
+
++Find Target! Text Address:0x2adfa Allocation Size:34 Text:和室は久しぶりだから、個人的にちょっとワクワクする。
+-Find Target! Text Address:0x2adfa Allocation Size:34 Text:和室は久しぶりだから、個人的にちょっとワクワクする。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2ae2f Allocation Size:18 Text:「畳、いい匂いがするね」
+-Find Target! Text Address:0x2ae2f Allocation Size:18 Text:「畳、いい匂いがするね」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2ae50 Allocation Size:46 Text:「はい、去年替えたばかりですので、お客様にも大変好評を頂いております」
+-Find Target! Text Address:0x2ae50 Allocation Size:46 Text:「はい、去年替えたばかりですので、お客様にも大変好評を頂いております」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2ae97 Allocation Size:44 Text:「お、今の言い方、なんかちょっとそれっぽいね。民宿というか旅館的な」
+-Find Target! Text Address:0x2ae97 Allocation Size:44 Text:「お、今の言い方、なんかちょっとそれっぽいね。民宿というか旅館的な」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2aee4 Allocation Size:58 Text:「そうですか？　ありがとうございます。これでも接客はお婆ちゃんに教え込まれていますので」
+-Find Target! Text Address:0x2aee4 Allocation Size:58 Text:「そうですか？　ありがとうございます。これでも接客はお婆ちゃんに教え込まれていますので」
+
++Find Target! Text Address:0x2af3d Allocation Size:3c Text:今の話から察するに、俺の婆ちゃんはかなりのやり手な気がする。
+-Find Target! Text Address:0x2af3d Allocation Size:3c Text:今の話から察するに、俺の婆ちゃんはかなりのやり手な気がする。
+
++Find Target! Text Address:0x2af84 Allocation Size:64 Text:民宿経営の傍ら、畳を替える経済力もあり、可愛がっている近所の女子にはそれ相応の接客指導までする人物。
+-Find Target! Text Address:0x2af84 Allocation Size:64 Text:民宿経営の傍ら、畳を替える経済力もあり、可愛がっている近所の女子にはそれ相応の接客指導までする人物。
+
++Find Target! Text Address:0x2afe9 Allocation Size:5e Text:爺ちゃんは既に亡くなっているらしいが、それなら尚のこと、一人での生活は苦労していたに違いない。
+-Find Target! Text Address:0x2afe9 Allocation Size:5e Text:爺ちゃんは既に亡くなっているらしいが、それなら尚のこと、一人での生活は苦労していたに違いない。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b05b Allocation Size:54 Text:「天気の良い日にはお布団も干しているので、今晩からふかふかの布団で横になれますよ？」
+-Find Target! Text Address:0x2b05b Allocation Size:54 Text:「天気の良い日にはお布団も干しているので、今晩からふかふかの布団で横になれますよ？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b0b0 Allocation Size:16 Text:「ありがとうのえ先生」
+-Find Target! Text Address:0x2b0b0 Allocation Size:16 Text:「ありがとうのえ先生」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b0c7 Allocation Size:38 Text:「なんかもう、今日は本当に至れり尽くせりって感じで……」
+-Find Target! Text Address:0x2b0c7 Allocation Size:38 Text:「なんかもう、今日は本当に至れり尽くせりって感じで……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b108 Allocation Size:20 Text:「あの、そののえ先生って……？」
+-Find Target! Text Address:0x2b108 Allocation Size:20 Text:「あの、そののえ先生って……？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b141 Allocation Size:1a Text:「のえ先生はのえ先生だよ」
+-Find Target! Text Address:0x2b141 Allocation Size:1a Text:「のえ先生はのえ先生だよ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b15c Allocation Size:46 Text:「俺をハチから救ってくれて、そしてこれからも俺をハチから守ってくれる」
+-Find Target! Text Address:0x2b15c Allocation Size:46 Text:「俺をハチから救ってくれて、そしてこれからも俺をハチから守ってくれる」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b1ab Allocation Size:4a Text:「あ、あはは……いくら私でも、残念ながら２４時間側にいられるわけじゃ……」
+-Find Target! Text Address:0x2b1ab Allocation Size:4a Text:「あ、あはは……いくら私でも、残念ながら２４時間側にいられるわけじゃ……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b1f6 Allocation Size:1a Text:「よし、シフト制にしよう」
+-Find Target! Text Address:0x2b1f6 Allocation Size:1a Text:「よし、シフト制にしよう」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b242 Allocation Size:e Text:「シフト制？」
+-Find Target! Text Address:0x2b242 Allocation Size:e Text:「シフト制？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b251 Allocation Size:2a Text:「ハチが平気な人を、あと２人確保するんだ」
+-Find Target! Text Address:0x2b251 Allocation Size:2a Text:「ハチが平気な人を、あと２人確保するんだ」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b27c Allocation Size:3a Text:「のえ先生も含め、昼間は４時間毎に交代で俺をハチから守る」
+-Find Target! Text Address:0x2b27c Allocation Size:3a Text:「のえ先生も含め、昼間は４時間毎に交代で俺をハチから守る」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b2b7 Allocation Size:5c Text:「夜は一人で布団を被ってここにいるから、朝起きて活動するところからハチガードをお願いしたい」
+-Find Target! Text Address:0x2b2b7 Allocation Size:5c Text:「夜は一人で布団を被ってここにいるから、朝起きて活動するところからハチガードをお願いしたい」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b31c Allocation Size:62 Text:「えっと、気持ちはわかるんですけど、何か見返りでもないと、残りの２人を説得するのは難しいかと……」
+-Find Target! Text Address:0x2b31c Allocation Size:62 Text:「えっと、気持ちはわかるんですけど、何か見返りでもないと、残りの２人を説得するのは難しいかと……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b3d2 Allocation Size:42 Text:「だ、大丈夫ですよ！　ハチの恐怖を克服すれば問題ありません……！」
+-Find Target! Text Address:0x2b3d2 Allocation Size:42 Text:「だ、大丈夫ですよ！　ハチの恐怖を克服すれば問題ありません……！」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b43b Allocation Size:54 Text:「でも本当にここで生活をしていくなら、ある程度虫には慣れないと大変だと思いますよ？」
+-Find Target! Text Address:0x2b43b Allocation Size:54 Text:「でも本当にここで生活をしていくなら、ある程度虫には慣れないと大変だと思いますよ？」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b490 Allocation Size:2a Text:「いや、まあ……確かにそうなんだけど……」
+-Find Target! Text Address:0x2b490 Allocation Size:2a Text:「いや、まあ……確かにそうなんだけど……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b4d1 Allocation Size:36 Text:「ハチは本当にこちらから危害を加えないと平気なんです」
+-Find Target! Text Address:0x2b4d1 Allocation Size:36 Text:「ハチは本当にこちらから危害を加えないと平気なんです」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b510 Allocation Size:4a Text:「だからまずは正しい知識を持って、ハチを理解するところから始めましょう？」
+-Find Target! Text Address:0x2b510 Allocation Size:4a Text:「だからまずは正しい知識を持って、ハチを理解するところから始めましょう？」
+
++Find Target! Text Address:0x2b55b Allocation Size:36 Text:すごくニコニコしながらそんなことを言ってくるのえ先生。
+-Find Target! Text Address:0x2b55b Allocation Size:36 Text:すごくニコニコしながらそんなことを言ってくるのえ先生。
+
++Find Target! Text Address:0x2b592 Allocation Size:32 Text:ま、まあ確かに、ハエとか蚊くらいなら俺も平気だし。
+-Find Target! Text Address:0x2b592 Allocation Size:32 Text:ま、まあ確かに、ハエとか蚊くらいなら俺も平気だし。
+
++Find Target! Text Address:0x2b5c5 Allocation Size:32 Text:なんとかハチもその延長線上にいる生物だと思えば……
+-Find Target! Text Address:0x2b5c5 Allocation Size:32 Text:なんとかハチもその延長線上にいる生物だと思えば……
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b602 Allocation Size:18 Text:「な、何？　今の音……」
+-Find Target! Text Address:0x2b602 Allocation Size:18 Text:「な、何？　今の音……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+-Find Target! Text Address:0x26752 Allocation Size:8 Text:「……」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b66c Allocation Size:14 Text:「まだ初日ですよ？」
+-Find Target! Text Address:0x2b66c Allocation Size:14 Text:「まだ初日ですよ？」
+
++Find Target! Text Address:0x2b681 Allocation Size:c Text:ハチも無理。
+-Find Target! Text Address:0x2b681 Allocation Size:c Text:ハチも無理。
+
++Find Target! Text Address:0x2b68e Allocation Size:c Text:クモも無理。
+-Find Target! Text Address:0x2b68e Allocation Size:c Text:クモも無理。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b69b Allocation Size:44 Text:（というか何あのクモ！？　手のひら以上のサイズだったんですけど！？）
+-Find Target! Text Address:0x2b69b Allocation Size:44 Text:（というか何あのクモ！？　手のひら以上のサイズだったんですけど！？）
+
++Find Target! Text Address:0x2b6e0 Allocation Size:24 Text:やはり田舎の生物はサイズがおかしい。
+-Find Target! Text Address:0x2b6e0 Allocation Size:24 Text:やはり田舎の生物はサイズがおかしい。
+
++Find Target! Text Address:0x2b705 Allocation Size:40 Text:この調子じゃ犬とか猫とか、きっと虫以外の生物もヤバいに違いない。
+-Find Target! Text Address:0x2b705 Allocation Size:40 Text:この調子じゃ犬とか猫とか、きっと虫以外の生物もヤバいに違いない。
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b791 Allocation Size:36 Text:「ビジュアルだけならあっちの方がハチよりヤバいよ！！」
+-Find Target! Text Address:0x2b791 Allocation Size:36 Text:「ビジュアルだけならあっちの方がハチよりヤバいよ！！」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b7fd Allocation Size:16 Text:なぜかがっかりされる。
+-Find Target! Text Address:0x2b7fd Allocation Size:16 Text:なぜかがっかりされる。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b814 Allocation Size:e Text:「益虫って？」
+-Find Target! Text Address:0x2b814 Allocation Size:e Text:「益虫って？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b838 Allocation Size:34 Text:「人間の生活にとって、特に害のない良い虫のことです」
+-Find Target! Text Address:0x2b838 Allocation Size:34 Text:「人間の生活にとって、特に害のない良い虫のことです」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b8e2 Allocation Size:a Text:「ふーん」
+-Find Target! Text Address:0x2b8e2 Allocation Size:a Text:「ふーん」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2b901 Allocation Size:58 Text:「しかし本当に今日からここに住むとなると、俺の場合心臓がいくつあっても足りない気がする」
+-Find Target! Text Address:0x2b901 Allocation Size:58 Text:「しかし本当に今日からここに住むとなると、俺の場合心臓がいくつあっても足りない気がする」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2b9ad Allocation Size:58 Text:「あの、一応殺虫スプレーはありますので、もし不安でしたら普段から近くに置いておけば……」
+-Find Target! Text Address:0x2b9ad Allocation Size:58 Text:「あの、一応殺虫スプレーはありますので、もし不安でしたら普段から近くに置いておけば……」
+
++Find Target! Text Address:0x2ba06 Allocation Size:22 Text:殺虫スプレーは基本装備に過ぎない。
+-Find Target! Text Address:0x2ba06 Allocation Size:22 Text:殺虫スプレーは基本装備に過ぎない。
+
++Find Target! Text Address:0x2ba29 Allocation Size:62 Text:個体によっては効かない場合もあるし、何よりスプレーした瞬間めちゃくちゃ暴れられるのが恐ろしすぎる。
+-Find Target! Text Address:0x2ba29 Allocation Size:62 Text:個体によっては効かない場合もあるし、何よりスプレーした瞬間めちゃくちゃ暴れられるのが恐ろしすぎる。
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2ba8c Allocation Size:1e Text:「色々助言ありがとうのえ先生」
+-Find Target! Text Address:0x2ba8c Allocation Size:1e Text:「色々助言ありがとうのえ先生」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2baab Allocation Size:5c Text:「とりあえずせめてもの対抗手段として、そのスプレーはありがたく数本お借りしたいんですが……」
+-Find Target! Text Address:0x2baab Allocation Size:5c Text:「とりあえずせめてもの対抗手段として、そのスプレーはありがたく数本お借りしたいんですが……」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2bb8d Allocation Size:22 Text:「今、私が追い払いますので……！」
+-Find Target! Text Address:0x2bb8d Allocation Size:22 Text:「今、私が追い払いますので……！」
+
++Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+-Find Target! Text Address:0x26383 Allocation Size:c Text:主人公（名）
+
++Find Target! Text Address:0x2bbb0 Allocation Size:3e Text:「よ、よくわかんないけど何がいるの……！？　どこにいるの！？」
+-Find Target! Text Address:0x2bbb0 Allocation Size:3e Text:「よ、よくわかんないけど何がいるの……！？　どこにいるの！？」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2bc21 Allocation Size:12 Text:「そ、その……！」
+-Find Target! Text Address:0x2bc21 Allocation Size:12 Text:「そ、その……！」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2bc3c Allocation Size:18 Text:「肩にゲジゲジが……！」
+-Find Target! Text Address:0x2bc3c Allocation Size:18 Text:「肩にゲジゲジが……！」
+
++Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+-Find Target! Text Address:0x29ac1 Allocation Size:4 Text:のえ
+
++Find Target! Text Address:0x2bc74 Allocation Size:48 Text:「だ、大丈夫ですか！？　起きて下さい！！　今すごい音がしましたけど！！」
+-Find Target! Text Address:0x2bc74 Allocation Size:48 Text:「だ、大丈夫ですか！？　起きて下さい！！　今すごい音がしましたけど！！」
+
++Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+-Find Target! Text Address:0x2634b Allocation Size:2 Text:？
+
++Find Target! Text Address:0x2bcd3 Allocation Size:2a Text:「珍しいねえ、のえちゃんが大声出すなんて」
+-Find Target! Text Address:0x2bcd3 Allocation Size:2a Text:「珍しいねえ、のえちゃんが大声出すなんて」
+
++Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+-Find Target! Text Address:0x265ca Allocation Size:2 Text:槙
+
++Find Target! Text Address:0x2bd06 Allocation Size:30 Text:「ごめんなさいねぇ。うちの弟うるさいでしょう？」
+-Find Target! Text Address:0x2bd06 Allocation Size:30 Text:「ごめんなさいねぇ。うちの弟うるさいでしょう？」
+
++Find Target! Text Address:0x2bd37 Allocation Size:44 Text:ゲジゲジが何かは知らないが、それが一瞬視界に入っただけで腰が抜ける。
+-Find Target! Text Address:0x2bd37 Allocation Size:44 Text:ゲジゲジが何かは知らないが、それが一瞬視界に入っただけで腰が抜ける。
+
++Find Target! Text Address:0x2bd7c Allocation Size:60 Text:幽霊でも熊でもドンと来いだが、俺はどうしようもなく虫だのクモだの、そういう輩には耐性がなかった。
+-Find Target! Text Address:0x2bd7c Allocation Size:60 Text:幽霊でも熊でもドンと来いだが、俺はどうしようもなく虫だのクモだの、そういう輩には耐性がなかった。
+
++Find Target! Text Address:0x2bdf6 Allocation Size:28 Text:指定されたラベルは見つかりませんでした。
+-Find Target! Text Address:0x2bdf6 Allocation Size:28 Text:指定されたラベルは見つかりませんでした。
+

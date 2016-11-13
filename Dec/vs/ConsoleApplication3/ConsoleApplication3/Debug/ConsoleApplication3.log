@@ -1,0 +1,14 @@
+﻿  ConsoleApplication3.cpp
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(68): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\jszht\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(95): warning C4996: 'wcsnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _wcsnicmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(591): note: 参见“wcsnicmp”的声明
+  ConsoleApplication3.vcxproj -> C:\Users\jszht\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\jszht\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)
