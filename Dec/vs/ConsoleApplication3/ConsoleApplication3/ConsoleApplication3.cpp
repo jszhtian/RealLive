@@ -92,11 +92,11 @@ int main(int argc, char** args)
 			memset(new_str, 0, sizeof(wchar_t) * info->length * 2);
 
 			decrypt_string(info_str, new_str, info->length, x);
-			if (wcsnicmp(new_str, L"dummy", 5) == 0)
+			/*if (wcsnicmp(new_str, L"dummy", 5) == 0)
 			{
 				delete new_str;
 				break;
-			}
+			}*/
 			fwprintf(txt, L"<%d>", x);
 			fwprintf(txt, L"\r\n//");
 			for (int i = 0; i < info->length; i++)
